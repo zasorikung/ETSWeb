@@ -2,21 +2,18 @@
 -1 Technology
    -  JSP
    -  Servlet
-   -  MySql
-   
+   -  MySql   
 -2 Software Feature
-   - CreateconnectDatabase form Java legrand
-   - Use program java EE Oracle workshop
-   - CreateconnectDatabase  
-   - ETSDB  config datateble form navicat 
-   - CreateServlet  
-      - createServlet  config login,Add,Edit,Search,DeleteData form DB
-      -Register
-      -Login
-      -Insert Student detail
-      -Edit Studeunt detail
-      -Delete Student detail
-      -Read Config file properties from file
-- Handle errormessage session timeout
-- Config file properties
-- CreateLogConsloe
+   - ConnectDatabase Form Java Programming Language
+   - Use program java EE Oracle Workshop Create And ConnectDatabase  
+   - ETSDB  Config Datateble Form Navicat 
+   - CreateServlet   
+      - Register
+      - Login
+      - Insert Student detail
+      - Edit Studeunt detail
+      - Delete Student detail
+      - Read Config File Properties From File
+- Handle Errormessage and Session and Timeout
+- Config File Properties
+- Create LogConsloe
