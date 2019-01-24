@@ -1,8 +1,8 @@
 # ETSWeb
-CreateconnectDatabase  
+#CreateconnectDatabase  
  - ETSDB  config datateble form navicat 
-CreateServlet 
+#CreateServlet 
  - createServlet Add,Edit,search,DeleteData
-Handle errormessage session timeout
-Config file properties
-CreateLogConsloe
+#Handle errormessage session timeout
+#Config file properties
+#CreateLogConsloe
