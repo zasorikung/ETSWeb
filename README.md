@@ -1,9 +1,10 @@
 # ETSWeb
--1 Technology
+ <1> Technology
    -  JSP
    -  Servlet
-   -  MySql   
--2 Software Feature
+   -  MySql  
+   
+<2> Software Feature
    - ConnectDatabase Form Java Programming Language
    - Use program java EE Oracle Workshop Create And ConnectDatabase  
    - ETSDB  Config Datateble Form Navicat 
