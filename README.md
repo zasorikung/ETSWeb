@@ -3,13 +3,14 @@
    -  JSP
    -  Servlet
    -  MySql
+   
 -2 Software Feature
-- CreateconnectDatabase form Java legrand
-- By program java ee oracle workshop
-- CreateconnectDatabase  
+   - CreateconnectDatabase form Java legrand
+   - By program java ee oracle workshop
+   - CreateconnectDatabase  
    - ETSDB  config datateble form navicat 
-- CreateServlet  
-   - createServlet  config login,Add,Edit,Search,DeleteData form DB
+   - CreateServlet  
+      - createServlet  config login,Add,Edit,Search,DeleteData form DB
       -Register
       -Login
       -Insert Student detail
