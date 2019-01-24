@@ -6,7 +6,7 @@
    
 -2 Software Feature
    - CreateconnectDatabase form Java legrand
-   - By program java ee oracle workshop
+   - Use program java EE Oracle workshop
    - CreateconnectDatabase  
    - ETSDB  config datateble form navicat 
    - CreateServlet  
