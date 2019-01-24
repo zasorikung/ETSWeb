@@ -7,7 +7,7 @@
 <2> Software Feature
    - ConnectDatabase Form Java Programming Language
    - Use Program java EE Oracle Workshop Create And ConnectDatabase  
-   - Use Navicat Config Datateble   
+   - Use Navicat Tools Config Datatable   
    - CreateServlet   
       - Register
       - Login
