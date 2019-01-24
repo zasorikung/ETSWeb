@@ -6,8 +6,8 @@
    
 <2> Software Feature
    - ConnectDatabase Form Java Programming Language
-   - Use program java EE Oracle Workshop Create And ConnectDatabase  
-   - ETSDB  Config Datateble Form Navicat 
+   - Use Program java EE Oracle Workshop Create And ConnectDatabase  
+   - Use Navicat Config Datateble   
    - CreateServlet   
       - Register
       - Login
@@ -15,6 +15,6 @@
       - Edit Studeunt detail
       - Delete Student detail
       - Read Config File Properties From File
-- Handle Errormessage and Session and Timeout
+- Handle Errormessage, Session Timeout
 - Config File Properties
 - Create LogConsloe
