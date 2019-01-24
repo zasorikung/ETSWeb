@@ -3,7 +3,7 @@
    -  JSP
    -  Servlet
    -  MySql
-2 Software Feature
+2  Software Feature
 - CreateconnectDatabase form Java legrand
 - By program java ee oracle workshop
 - CreateconnectDatabase  
