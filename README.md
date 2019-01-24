@@ -15,6 +15,6 @@
       - Edit Studeunt detail
       - Delete Student detail
       - Read Config File Properties From File
-- Handle Errormessage, Session Timeout
+- Handle Errormessage, Session And Timeout
 - Config File Properties
 - Create LogConsloe
